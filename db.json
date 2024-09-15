@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "7816",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "71ca",
+      "title": "ian",
+      "author": "ian"
+    },
+    {
+      "id": "a254",
+      "title": "ian",
+      "author": "ian"
+    },
+    {
+      "id": "f163",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "bfa8",
+      "title": "itis",
+      "author": "ian"
+    },
+    {
+      "id": "bc78",
+      "title": "hello",
+      "author": "world"
+    },
+    {
+      "id": "968e",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "c328",
+      "title": "ian",
+      "author": "ian"
+    },
+    {
+      "id": "bcb7",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "1ec3",
+      "title": "ian",
+      "author": "ian"
+    },
+    {
+      "id": "4c87",
+      "title": "itis6177",
+      "author": "ian"
+    },
+    {
+      "id": "833a",
+      "title": "itis",
+      "author": "ian"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
